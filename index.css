@@ -1,4 +1,4 @@
-body {
+.pageOne {
 	background-image: url("Photos/sackcloth-1280540_960_720.jpg");
 	background-size: cover;
 	background-repeat: none;
@@ -23,4 +23,22 @@ h4 {
 	margin-left: 400px;
 	text-align: center;
 	color: white;
+}
+
+.pageTwo {
+	background-image: url("Photos/rafal-jedrzejek-416892.jpg");
+	background-size: cover;
+	background-repeat: none;
+}
+
+.pageThree {
+	background-image: url("Photos/oliver-pecker-364272(1).jpg");
+	background-size: cover;
+	background-repeat: none;
+}
+
+.pageFour {
+	background-image: url("Photos/hector-martinez-110928(1).jpg");
+	background-size: cover;
+	background-repeat: none;
 }
