@@ -1,5 +1,7 @@
-.pageOne {
+#pageOne {
 	background-image: url("Photos/sackcloth-1280540_960_720.jpg");
+	height: 1000px;
+	margin-top: 0px;
 	background-size: cover;
 	background-repeat: none;
 }
@@ -25,19 +27,19 @@ h4 {
 	color: white;
 }
 
-.pageTwo {
+#pageTwo {
 	background-image: url("Photos/rafal-jedrzejek-416892.jpg");
 	background-size: cover;
 	background-repeat: none;
 }
 
-.pageThree {
+#pageThree {
 	background-image: url("Photos/oliver-pecker-364272(1).jpg");
 	background-size: cover;
 	background-repeat: none;
 }
 
-.pageFour {
+#pageFour {
 	background-image: url("Photos/hector-martinez-110928(1).jpg");
 	background-size: cover;
 	background-repeat: none;
